@@ -1,0 +1,9 @@
+body {
+  background-color: aquamarine;
+}
+
+.card-text {
+  font-size: 15px;
+  color: black;
+  list-style-type: none;
+}

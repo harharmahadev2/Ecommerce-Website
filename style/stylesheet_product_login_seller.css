@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(127, 255, 249);
+}
+
+ul {
+  list-style-type: none;
+}
+
+.card-text {
+  font-size: 15px;
+  color: black;
+}
